@@ -15,7 +15,7 @@
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [Amanda's custom theme](https://github.com/amandamcg/joplin-theme) - [UI],
+- [Amanda's custom styles](https://github.com/amandamcg/joplin-theme) - [UI],
   [Editor], [Dark].
   
   ![](https://raw.githubusercontent.com/amandamcg/joplin-theme/master/screenshots/v0.5.5-updates.png)
@@ -34,6 +34,10 @@ About this section. Optional. Keep this short and focus on the list.
   [Editor], [Light].
 
   ![](https://raw.githubusercontent.com/lightzhan/joplin-theme-gloden-2020/master/pic/example.png)
+
+- [Charles' custom
+   styles](https://git.sr.ht/~charles/dotfiles/tree/0363ef08173f4af4c89f2e4081d165903aa27e93/overlay/.config/joplin-desktop/userstyle.css) -
+   [Editor], [Light].
 
 
 ## Tools
