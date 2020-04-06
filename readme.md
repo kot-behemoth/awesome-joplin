@@ -5,13 +5,13 @@
 
 ## Contents
 
-- [Themes (UI and Editor)](#themes-ui-and-editor)
+- [Themes (Custom CSS)](#themes-custom-css)
 - [Tools](#tools)
 - [Contribute](#contribute)
 - [License](#license)
 
 
-## Themes (UI and Editor)
+## Themes (Custom CSS)
 
 About this section. Optional. Keep this short and focus on the list.
 
@@ -38,6 +38,11 @@ About this section. Optional. Keep this short and focus on the list.
 - [Charles' custom
    styles](https://git.sr.ht/~charles/dotfiles/tree/0363ef08173f4af4c89f2e4081d165903aa27e93/overlay/.config/joplin-desktop/userstyle.css) -
    [Editor], [Light].
+   
+-  [TobiasDev's custom styles](https://github.com/TobiasDev/Joplin-Custom-CSS) -
+   [UI], [Editor], [Dark].
+
+  ![](https://raw.githubusercontent.com/TobiasDev/Joplin-Custom-CSS/master/Resources/JoplinDesign.png)
 
 
 ## Tools
