@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- If you're adding a theme or a custom style, it would be great to include
+  screenshots.
+- Any new link you're adding should have a brief description.
 
 Thank you for your suggestions!
 
