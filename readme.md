@@ -48,7 +48,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Tools
 
-All of these are mostly sources from the [#apps
+All of these are mostly sourced from the [#apps
 topic](https://discourse.joplinapp.org/c/apps/11) on the [official Joplin
 forum](https://discourse.joplinapp.org/c/apps/11).
 
