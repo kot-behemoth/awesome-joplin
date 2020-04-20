@@ -5,13 +5,14 @@
 
 ## Contents
 
-- [Themes (Custom CSS)](#themes-custom-css)
+- [Themes (`userstyle.css` and `userchrome.css`)](#themes-userstylecss-and-userchromecss)
 - [Tools](#tools)
+- [Tutorials](#tutorials)
 - [Contribute](#contribute)
 - [License](#license)
 
 
-## Themes (Custom CSS)
+## Themes (`userstyle.css` and `userchrome.css`)
 
 About this section. Optional. Keep this short and focus on the list.
 
@@ -47,6 +48,10 @@ About this section. Optional. Keep this short and focus on the list.
 
 ## Tools
 
+All of these are mostly sources from the [#apps
+topic](https://discourse.joplinapp.org/c/apps/11) on the [official Joplin
+forum](https://discourse.joplinapp.org/c/apps/11).
+
 - [Web Clipper](https://joplinapp.org/clipper/). A browser extension that allows
   you to save web pages and screenshots from your browser. To start using it,
   open the Joplin desktop application, go to the Web Clipper Options and follow
@@ -60,10 +65,45 @@ About this section. Optional. Keep this short and focus on the list.
   the note as a comment. An image preview is also created for PDFs.
 - [Python Joplin API](https://github.com/foxmask/joplin-api). The API of Joplin
   Editor in Python 3.6+.
+- [Replace Evernote links in
+  Joplin](https://github.com/pentop/replaceEvernoteLinksWithJoplin). A script
+  which uses the Joplin API to globally search-and-replace Evernote links within
+  notes with native Joplin links.
+- [Send email from Outlook to
+  Joplin](https://gist.github.com/ramisedhom/0f34c5d6a8d73f0b98ac4bea2ec30be0).
+  A VBA script (Visual Basic for Application) to send the subject of selected
+  emails from Outook to Joplin Desktop.
+- [Ghoplin](https://github.com/zblesk/Ghoplin). A tool for downloading posts
+  from Ghost blogs into Joplin.
+- [notestation-to-joplin](https://github.com/KraxelHuber/notestation-to-joplin).
+  A Python script that extracts notes (including attachments) from Synology’s
+  Note Station and imports them into the Joplin app.
+- [joplin-mail-gateway](https://github.com/manolitto/joplin-mail-gateway). This
+  tool provides a solution for emailing content directly into your Joplin notes.
+
+  You may send or forward an email to a dedicated email address. This email is
+  than automatically delivered to your personal Joplin notes. Attachments (PDFs,
+  Images, ...) will automatically be included in the note. In addition text is
+  automatically scanned from images via OCR. This extracted text is added at the
+  bottom of the note so that it is easily searchable in Joplin.
+- [joplin-bulker](https://github.com/andgineer/joplin-bulker). Python script to
+  bulk remove tags from Joplin files.
+- [Dashboard home page from
+  Joplin](https://gist.github.com/ramisedhom/47eee0a3e4eb887f02c3730ed5b3c211).
+
+  ![joplin-dashboard](https://aws1.discourse-cdn.com/standard14/uploads/cozic/original/2X/d/d02532a55a0c529b6cb24f94f02f708d606c7a19.png)
 - [Yeoboseyo](https://github.com/foxmask/yeoboseyo). "The bus for your internet
   services." A companion for Joplin which allows creating notes from RSS Feeds,
   plus others possibilities, like publishing the same RSS Feeds on another
   service, like Mastodon.
+
+
+## Tutorials
+
+- [Send screenshot to
+  Joplin](https://discourse.joplinapp.org/t/send-screenshot-to-joplin-windows/4918).
+  A way to take desktop screenshot and save it automatically to Joplin
+  [Windows].
 
 
 ## Contribute
