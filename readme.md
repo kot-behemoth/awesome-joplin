@@ -45,6 +45,11 @@ About this section. Optional. Keep this short and focus on the list.
 
   ![](https://raw.githubusercontent.com/TobiasDev/Joplin-Custom-CSS/master/Resources/JoplinDesign.png)
 
+-  [joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2) - [UI],
+   [Editor], [Dark]
+   
+  ![](https://raw.githubusercontent.com/mattsbennett/joplin-Nord2/master/img/Nord2.png)
+
 
 ## Tools
 
