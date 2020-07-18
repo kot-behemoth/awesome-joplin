@@ -50,6 +50,9 @@ About this section. Optional. Keep this short and focus on the list.
    
   ![](https://raw.githubusercontent.com/mattsbennett/joplin-Nord2/master/img/Nord2.png)
 
+- [Joplin Dark Gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox/blob/master) -[UI], [Editor], [Dark]
+
+  ![](https://github.com/robotcorner/joplin-theme-dark-gruvbox/blob/master/screenshots/sample-img1.png)
 
 ## Tools
 
