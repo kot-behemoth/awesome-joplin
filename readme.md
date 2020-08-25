@@ -53,6 +53,12 @@ About this section. Optional. Keep this short and focus on the list.
 - [Joplin Dark Gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox/blob/master) -[UI], [Editor], [Dark]
 
   ![](https://github.com/robotcorner/joplin-theme-dark-gruvbox/blob/master/screenshots/sample-img1.png)
+  
+- [hrqmonteiro's custom theme](https://github.com/hrqmonteiro/joplin-theme) - [UI],
+  [Editor], [Dark], [Icons]. Advanced custom theme with heavy inspiration from _Things 3_.
+
+  ![](https://raw.githubusercontent.com/hrqmonteiro/joplin-theme/master/assets/screenshot1.png)
+
 
 ## Tools
 
