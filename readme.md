@@ -112,6 +112,12 @@ forum](https://discourse.joplinapp.org/c/apps/11).
   plus others possibilities, like publishing the same RSS Feeds on another
   service, like Mastodon.
 
+## Plugins
+Joplin now supports plugins. Here are a few interesting ones :
+
+- [Make all possible links](https://github.com/S73ph4n/joplin_make_all_links) [Experimental] Goes through the current note looking for words (or groups of words) matching another note's title. When found, makes them into links to the corresponding notes.
+- [Link to note](https://github.com/S73ph4n/joplin_autolinker) [Experimental] Checks if the selected text matches an existing note's title. If such a note exists, makes a link to it. If it doesn't, creates it.
+- [Automate notes with JS](https://github.com/S73ph4n/joplin_automate_notes) [Experimental] Execute blocks of Javascript in the note, writing the results below.
 
 ## Tutorials
 
