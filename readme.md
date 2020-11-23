@@ -7,6 +7,7 @@
 
 - [Themes (`userstyle.css` and `userchrome.css`)](#themes-userstylecss-and-userchromecss)
 - [Tools](#tools)
+- [Plugins](#plugins)
 - [Tutorials](#tutorials)
 - [Contribute](#contribute)
 - [License](#license)
