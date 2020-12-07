@@ -47,7 +47,7 @@ About this section. Optional. Keep this short and focus on the list.
   ![](https://raw.githubusercontent.com/TobiasDev/Joplin-Custom-CSS/master/Resources/JoplinDesign.png)
 
 -  [joplin-Nord2](https://github.com/mattsbennett/joplin-Nord2) - [UI],
-   [Editor], [Dark]
+   [Editor], [Dark], [Fonts]. A sub-theme of Joplin's built-in Nord theme.
    
   ![](https://raw.githubusercontent.com/mattsbennett/joplin-Nord2/master/img/Nord2.png)
 
@@ -56,17 +56,29 @@ About this section. Optional. Keep this short and focus on the list.
 
   ![](https://github.com/robotcorner/joplin-theme-dark-gruvbox/blob/master/screenshots/sample-img1.png)
   
-- [NeptuneJoplin - hrqmonteiro's custom theme](https://github.com/hrqmonteiro/joplin-theme) - [UI],
+- [hrqmonteiro's NeptuneJoplin](https://github.com/hrqmonteiro/joplin-theme) - [UI],
   [Editor], [Dark], [Icons]. Advanced custom theme with heavy inspiration from _Things 3_.
 
   ![](https://raw.githubusercontent.com/hrqmonteiro/joplin-theme/master/assets/screenshot1.png)
+
+- [joseajohnson's custom theme](https://github.com/joseajohnson/joplin-style-dark-colors) -
+  [UI], [Editor], [Dark]. Alternating rows on lists with muted colors, larger,
+  bolder editing styles, KaTeX hues.
+
+  ![](https://raw.githubusercontent.com/joseajohnson/joplin-style-dark-colors/main/img/joplin-style-dark-colors_00.png)
+
+- [Wanaka UI](https://github.com/benji300/joplin-wanaka-ui) -
+  [UI], [Editor], [Dark], [Light]. Requires Joplin v1.4.12 or newer.
+
+  ![](https://raw.githubusercontent.com/benji300/joplin-wanaka-ui/master/assets/main-light.png)
+  ![](https://raw.githubusercontent.com/benji300/joplin-wanaka-ui/master/assets/main-dark.png)
 
 
 ## Tools
 
 All of these are mostly sourced from the [#apps
 topic](https://discourse.joplinapp.org/c/apps/11) on the [official Joplin
-forum](https://discourse.joplinapp.org/c/apps/11).
+forum](https://discourse.joplinapp.org).
 
 - [Web Clipper](https://joplinapp.org/clipper/). A browser extension that allows
   you to save web pages and screenshots from your browser. To start using it,
@@ -119,6 +131,9 @@ Joplin now supports plugins. Here are a few interesting ones :
 - [Make all possible links](https://github.com/S73ph4n/joplin_make_all_links) [Experimental] Goes through the current note looking for words (or groups of words) matching another note's title. When found, makes them into links to the corresponding notes.
 - [Link to note](https://github.com/S73ph4n/joplin_autolinker) [Experimental] Checks if the selected text matches an existing note's title. If such a note exists, makes a link to it. If it doesn't, creates it.
 - [Automate notes with JS](https://github.com/S73ph4n/joplin_automate_notes) [Experimental] Execute blocks of Javascript in the note, writing the results below.
+- [Note tabs](https://github.com/benji300/joplin-note-tabs) [Experimental] Display the selected note in a tab panel and allows to pin/unpin notes as tabs.
+- [Create note from highlighted text](https://github.com/ambrt/joplin-plugin-create-note-from-text), [explanation](https://discourse.joplinapp.org/t/create-note-from-highlighted-text/12511) [Experimental] Turns text or block of text into new note under active folder.
+- [Statusbar](https://github.com/tbergeron/joplin-statusbar) [Experimental] Very simple plugin that adds a view to use as a statusbar. For now it only displays the last sync time.
 
 ## Tutorials
 
