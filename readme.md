@@ -83,7 +83,13 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 ## Plugins
 
-Joplin now supports plugins. Here are a few interesting ones:
+### Official Joplin Plugin Repository
+
+Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins), and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
+
+### Old-style plugins
+
+This is a list of plugins that were created before the official plugin repository existed. Here are a few interesting ones:
 
 - [Make all possible links](https://github.com/S73ph4n/joplin_make_all_links) [Experimental] Goes through the current note looking for words (or groups of words) matching another note's title. When found, makes them into links to the corresponding notes.
 - [Link to note](https://github.com/S73ph4n/joplin_autolinker) [Experimental] Checks if the selected text matches an existing note's title. If such a note exists, makes a link to it. If it doesn't, creates it.
@@ -91,6 +97,7 @@ Joplin now supports plugins. Here are a few interesting ones:
 - [Note tabs](https://github.com/benji300/joplin-note-tabs) [Experimental] Display the selected note in a tab panel and allows to pin/unpin notes as tabs.
 - [Create note from highlighted text](https://github.com/ambrt/joplin-plugin-create-note-from-text), [explanation](https://discourse.joplinapp.org/t/create-note-from-highlighted-text/12511) [Experimental] Turns text or block of text into new note under active folder.
 - [Statusbar](https://github.com/tbergeron/joplin-statusbar) [Experimental] Very simple plugin that adds a view to use as a statusbar. For now it only displays the last sync time.
+
 
 ## Tutorials
 
