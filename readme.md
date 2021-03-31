@@ -55,6 +55,9 @@
   ![](https://raw.githubusercontent.com/benji300/joplin-wanaka-ui/master/assets/main-light.png)
   ![](https://raw.githubusercontent.com/benji300/joplin-wanaka-ui/master/assets/main-dark.png)
 
+- [VSCode Community Material Theme](https://github.com/mahor1221/joplin-vsc-material-theme) - [UI], [Dark].
+
+  ![](https://raw.githubusercontent.com/mahor1221/joplin-vsc-material-theme/master/screenshots.gif)
 
 ## Tools
 
