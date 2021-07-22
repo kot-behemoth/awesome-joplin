@@ -59,6 +59,10 @@
 
   ![](https://raw.githubusercontent.com/mahor1221/joplin-vsc-material-theme/master/screenshots.gif)
 
+- [macOS theme for Joplin](https://github.com/amandamcg/joplin-theme) - [UI], [Editor], [Light], [Dark]. Requires Joplin v2.0.2 or newer.
+
+  ![macOS theme for Joplin](https://user-images.githubusercontent.com/487182/126595235-f85a02fb-0893-4498-bd12-39c7bff60133.png)
+
 ## Tools
 
 All of these are mostly sourced from the [#apps topic](https://discourse.joplinapp.org/c/apps/11) on the [official Joplin forum](https://discourse.joplinapp.org).
