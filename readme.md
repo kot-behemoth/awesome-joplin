@@ -63,6 +63,10 @@
 
   ![macOS theme for Joplin](https://user-images.githubusercontent.com/487182/126595235-f85a02fb-0893-4498-bd12-39c7bff60133.png)
 
+- [White Theme](https://discourse.joplinapp.org/t/joplin-white-theme/20161) - [UI], [Light], Requires Joplin v2.0.2 or newer.
+![White Theme](https://user-images.githubusercontent.com/47278150/132980252-7724671a-5ee5-4c53-b491-9ac438a0f808.png)
+
+
 ## Tools
 
 All of these are mostly sourced from the [#apps topic](https://discourse.joplinapp.org/c/apps/11) on the [official Joplin forum](https://discourse.joplinapp.org).
