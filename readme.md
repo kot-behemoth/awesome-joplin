@@ -69,7 +69,8 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 
 - [Web Clipper](https://joplinapp.org/clipper/). A browser extension that allows you to save web pages and screenshots from your browser. To start using it, open the Joplin desktop application, go to the Web Clipper Options and follow the instructions.joplin-dashboard
 - [File Uploader and OCR (a.k.a. REST Uploader)](https://github.com/kellerjustin/rest-uploader), [[discussion](https://discourse.joplinapp.org/t/file-uploader-and-ocr/719)]. Command line companion application to supplement Joplin. The app monitors a directory you specify; when new files are created in the directory, it automatically uploads the file as text or an attachment (depending on file type) to a new note in Joplin. The app performs OCR on images and PDFs, and the text is dropped into the note as a comment. An image preview is also created for PDFs.
-- [Python Joplin API](https://github.com/foxmask/joplin-api). The API of Joplin Editor in Python 3.6+.
+- [Joppy](https://github.com/marph91/joppy). Python interface for the Joplin data API.
+- [Python Joplin API](https://github.com/foxmask/joplin-api). The API of Joplin Editor in Python 3.6+. (unmaintained)
 - [Replace Evernote links in Joplin](https://github.com/pentop/replaceEvernoteLinksWithJoplin). A script which uses the Joplin API to globally search-and-replace Evernote links within notes with native Joplin links.
 - [Send email from Outlook to Joplin](https://gist.github.com/ramisedhom/0f34c5d6a8d73f0b98ac4bea2ec30be0). A VBA script (Visual Basic for Application) to send the subject of selected emails from Outook to Joplin Desktop.
 - [Ghoplin](https://github.com/zblesk/Ghoplin). A tool for downloading posts from Ghost blogs into Joplin.
