@@ -61,7 +61,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
   ![macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme/blob/main/images/macos-theme-for-joplin.png)
 
 - [Ohmine Dark Theme](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin) - [UI], [Editor], [Fonts], [Dark].
-  ![Ohmine Dark Theme](hhttps://user-images.githubusercontent.com/86870826/135724024-bf6631a1-b1df-4170-b748-3751f82e791a.png)
+  ![Ohmine Dark Theme](https://user-images.githubusercontent.com/86870826/135724024-bf6631a1-b1df-4170-b748-3751f82e791a.png)
 
 - [tessus's custom styles](https://github.com/tessus/joplin-custom-css) - [UI], [Editor].
   ![tessus's custom styles](https://raw.githubusercontent.com/tessus/joplin-custom-css/master/images/Dark.png)
