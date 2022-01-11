@@ -23,7 +23,7 @@ Legend:
 - **[Light]**: Light theme.
 - **[Editor]**: Available stylesheet for custom rendered Markdown (`userstyle.css`)
 - **[UI]**: Available stylesheet for Joplin wide-app styles (`userchrome.css`)
-- **[Fonts]**: Optional or required police fonts can be installed/need to be installed with the theme
+- **[Fonts]**: Optional or required fonts can be installed/need to be installed with the theme
 - **[Icons]**: Optional or required icons can be installed/need to be installed with the theme
 
 All of these are mostly sourced from [Share Your CSS](https://discourse.joplinapp.org/t/share-your-css/1730) topic on the [official Joplin forum](https://discourse.joplinapp.org).
