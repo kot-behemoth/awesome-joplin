@@ -74,7 +74,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
   ![Wanaka UI](https://raw.githubusercontent.com/benji300/joplin-wanaka-ui/master/assets/main-dark.png)
 
 - [White Theme](https://discourse.joplinapp.org/t/joplin-white-theme/20161) - [UI], [Light], Requires Joplin v2.0.2 or newer.
-  ![White Theme](https://user-images.githubusercontent.com/47278150/132980252-7724671a-5ee5-4c53-b491-9ac438a0f808.png)
+  ![White Theme](https://aws1.discourse-cdn.com/standard14/uploads/cozic/original/2X/6/6381fc761aedb44ed6d84eeb04d401a3b676aacc.png)
 
 ### Unmaintained Themes
 
