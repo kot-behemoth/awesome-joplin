@@ -48,7 +48,10 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 - [gonzalovsilva's custom styles](https://github.com/gonzalovsilva/joplin-dark-theme) - [UI], [Editor], [Fonts], [Dark]. A material theme inspired from One Dark Pro.
   ![gonzalovsilva's custom styles](https://raw.githubusercontent.com/gonzalovsilva/joplin-dark-theme/main/_resources/3ff4c2509d9c4095996bc6db57c004c9.gif)
 
-- [hrqmonteiro's NeptuneJoplin](https://github.com/hrqmonteiro/joplin-theme) - [UI], [Editor], [Icons], [Dark]. Advanced custom theme with heavy inspiration from _Things 3_.
+- ⚠️ [hrqmonteiro's NeptuneJoplin](https://github.com/hrqmonteiro/joplin-theme) - [UI], [Editor], [Icons], [Dark]. Advanced custom theme with heavy inspiration from _Things 3_.
+  
+  ⚠️: doesn't seem to work well with Joplin 2.7+, see [this thread](https://github.com/hrqmonteiro/joplin-theme/issues/2).
+  
   ![hrqmonteiro's NeptuneJoplin](https://raw.githubusercontent.com/hrqmonteiro/joplin-theme/master/assets/screenshot1.png)
 
 - [Joplin Dark Gruvbox](https://github.com/robotcorner/joplin-theme-dark-gruvbox) - [UI], [Editor], [Dark].
