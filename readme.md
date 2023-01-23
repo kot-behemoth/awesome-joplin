@@ -33,7 +33,7 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 - [AngelaCrawford's custom style](https://github.com/AngelCrawford/joplin-theme) - [UI], [Editor], [Fonts], [Dark].
   ![AngelaCrawford's custom style](https://raw.githubusercontent.com/AngelCrawford/joplin-theme/main/assets/screenshot1.png)
 
-- [Catppuccin](https://github.com/sadmice/Catppuccin-Theme-For-Joplin) - [UI], [Editor], [Fonts], [Dark].
+- [Catppuccin](https://github.com/catppuccin/joplin) - [UI], [Editor], [Fonts], [Dark].
   ![Catppuccin](https://user-images.githubusercontent.com/23323305/168392162-44a6be18-b75d-4796-97df-559635da1fbb.png)
 
 - [Charles' custom style](https://git.sr.ht/~charles/dotfiles/tree/0363ef08173f4af4c89f2e4081d165903aa27e93/overlay/.config/joplin-desktop/userstyle.css) - [Editor], [Light].
