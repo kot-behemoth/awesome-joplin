@@ -82,6 +82,10 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 - [White Theme](https://discourse.joplinapp.org/t/joplin-white-theme/20161) - [UI], [Light], Requires Joplin v2.0.2 or newer.
   ![White Theme](https://aws1.discourse-cdn.com/standard14/uploads/cozic/original/2X/6/6381fc761aedb44ed6d84eeb04d401a3b676aacc.png)
 
+- [openSUSE Green Theme](https://github.com/DinoDevel/Joplin-theme-opensuse-green) - [UI], [Editor], [Dark]. Dark theme for Joplin with greenish accents. Created on top of builtin "Dark" theme.
+  ![openSUSE Green Theme](https://github.com/DinoDevel/Joplin-theme-opensuse-green/assets/12165225/59f29dff-0133-4590-afd0-2516c6cbb179)
+
+
 ### Unmaintained Themes
 
 These themes are no longer maintained and work best for older versions of Joplin (< 2.0). You can still use them as a basis for your own custom theme:
