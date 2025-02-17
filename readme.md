@@ -70,7 +70,8 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 - [VSCode Community Material Themes](https://github.com/stysebae/joplin-vsc-material-theme) - [UI], [Editor], [Dark]. Flat material themes inspired by [VSCode Community Material Themes](https://github.com/material-theme/vsc-material-theme).
   ![VSCode Community Material Themes](https://raw.githubusercontent.com/stysebae/joplin-vsc-material-theme/master/screenshots/screenshots.gif)
 
-- [White Theme](https://github.com/BeatLink/Joplin-White-Theme) - [UI], [Light], Requires Joplin v2.0.2 or newer.
+- [openSUSE Green Theme](https://github.com/DinoDevel/Joplin-theme-opensuse-green) - [UI], [Editor], [Dark]. Dark theme for Joplin with greenish accents. Created on top of builtin "Dark" theme.
+  ![openSUSE Green Theme](https://github.com/DinoDevel/Joplin-theme-opensuse-green/assets/12165225/59f29dff-0133-4590-afd0-2516c6cbb179)
 
 ## Tools
 
