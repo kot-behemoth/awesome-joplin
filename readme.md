@@ -6,11 +6,9 @@
 ## Contents
 
   - [Themes](#themes)
-    - [Unmaintained Themes](#unmaintained-themes)
   - [Tools](#tools)
   - [Plugins](#plugins)
     - [Official Joplin Plugin Repository](#official-joplin-plugin-repository)
-    - [Old-style Plugins](#old-style-plugins)
   - [Tutorials](#tutorials)
   - [Contribute](#contribute)
   - [License](#license)
@@ -66,51 +64,29 @@ All of these are mostly sourced from [Share Your CSS](https://discourse.joplinap
 - [macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme) - [UI], [Editor], [Light], [Dark]. Requires Joplin v2.0.2 or newer.
   ![macOS theme for Joplin](https://github.com/andrejilderda/joplin-macos-native-theme/blob/main/images/macos-theme-for-joplin.png)
 
-- [Ohmine Dark Theme](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin) - [UI], [Editor], [Fonts], [Dark].
-  ![Ohmine Dark Theme](https://user-images.githubusercontent.com/86870826/135724024-bf6631a1-b1df-4170-b748-3751f82e791a.png)
-
 - [tessus's custom styles](https://github.com/tessus/joplin-custom-css) - [UI], [Editor].
   ![tessus's custom styles](https://raw.githubusercontent.com/tessus/joplin-custom-css/master/images/Dark.png)
 
 - [VSCode Community Material Themes](https://github.com/stysebae/joplin-vsc-material-theme) - [UI], [Editor], [Dark]. Flat material themes inspired by [VSCode Community Material Themes](https://github.com/material-theme/vsc-material-theme).
   ![VSCode Community Material Themes](https://raw.githubusercontent.com/stysebae/joplin-vsc-material-theme/master/screenshots/screenshots.gif)
 
-- [Wanaka UI](https://github.com/benji300/joplin-wanaka-ui) - [UI], [Editor], [Light], [Dark]. Requires Joplin v1.4.12 or newer.
-  ![Wanaka UI](https://raw.githubusercontent.com/benji300/joplin-wanaka-ui/master/assets/main-light.png)
-  ![Wanaka UI](https://raw.githubusercontent.com/benji300/joplin-wanaka-ui/master/assets/main-dark.png)
-
-- [White Theme](https://discourse.joplinapp.org/t/joplin-white-theme/20161) - [UI], [Light], Requires Joplin v2.0.2 or newer.
-  ![White Theme](https://aws1.discourse-cdn.com/standard14/uploads/cozic/original/2X/6/6381fc761aedb44ed6d84eeb04d401a3b676aacc.png)
-
 - [openSUSE Green Theme](https://github.com/DinoDevel/Joplin-theme-opensuse-green) - [UI], [Editor], [Dark]. Dark theme for Joplin with greenish accents. Created on top of builtin "Dark" theme.
   ![openSUSE Green Theme](https://github.com/DinoDevel/Joplin-theme-opensuse-green/assets/12165225/59f29dff-0133-4590-afd0-2516c6cbb179)
 
-
-### Unmaintained Themes
-
-These themes are no longer maintained and work best for older versions of Joplin (< 2.0). You can still use them as a basis for your own custom theme:
-
-- [amandamcg's custom styles](https://github.com/amandamcg/joplin-theme) - [UI], [Editor].
-  ![amandamcg's custom styles](https://raw.githubusercontent.com/amandamcg/joplin-theme/master/screenshots/v0.7.1-updates.png)
-
-- [VSCode Community Material Theme](https://github.com/mahor1221/joplin-vsc-material-theme) - [UI]. Flat material themes inspired by [VSCode Community Material Themes](https://github.com/material-theme/vsc-material-theme)
-  ![VSCode Community Material Theme](https://raw.githubusercontent.com/mahor1221/joplin-vsc-material-theme/master/screenshots.gif)
-   
 ## Tools
 
 All of these are mostly sourced from the [#apps topic](https://discourse.joplinapp.org/c/apps/11) on the [official Joplin forum](https://discourse.joplinapp.org):
 
 - [Dashboard home page from Joplin](https://gist.github.com/ramisedhom/47eee0a3e4eb887f02c3730ed5b3c211).
 
-  ![Dashboard home page from Joplin](https://aws1.discourse-cdn.com/standard14/uploads/cozic/original/2X/d/d02532a55a0c529b6cb24f94f02f708d606c7a19.png)
 - [File Uploader and OCR (a.k.a. REST Uploader)](https://github.com/kellerjustin/rest-uploader), [[discussion](https://discourse.joplinapp.org/t/file-uploader-and-ocr/719)]. Command line companion application to supplement Joplin. The app monitors a directory you specify; when new files are created in the directory, it automatically uploads the file as text or an attachment (depending on file type) to a new note in Joplin. The app performs OCR on images and PDFs, and the text is dropped into the note as a comment. An image preview is also created for PDFs.
 - [Ghoplin](https://github.com/zblesk/Ghoplin). A tool for downloading posts from Ghost blogs into Joplin.
 - [joplin-mail-gateway](https://github.com/manolitto/joplin-mail-gateway). This tool provides a solution for emailing content directly into your Joplin notes. You may send or forward an email to a dedicated email address. This email is than automatically delivered to your personal Joplin notes. Attachments (PDFs, Images, ...) will automatically be included in the note. In addition text is automatically scanned from images via OCR. This extracted text is added at the bottom of the note so that it is easily searchable in Joplin.
 - [joplin-bulker](https://github.com/andgineer/joplin-bulker), [[discussion](https://discourse.joplinapp.org/t/bulk-tag-delete-python-script/5497)]. Python script to bulk remove tags from Joplin files.
+- [Jimmy](https://github.com/marph91/jimmy), [[discussion](https://discourse.joplinapp.org/t/jimmy-a-joplin-import-tool/38503)], [[documentation](https://marph91.github.io/jimmy/)]. Import your notes from various formats to Joplin.
 - [Joppy](https://github.com/marph91/joppy), [[discussion](https://discourse.joplinapp.org/t/joplin-api-python/1359/38)]. Python interface for the Joplin data API.
 - [notestation-to-joplin](https://github.com/KraxelHuber/notestation-to-joplin), [[discussion](https://discourse.joplinapp.org/t/python-script-for-importing-notes-from-synologys-note-station-into-joplin/6605)]. A Python script that extracts notes (including attachments) from Synology’s Note Station and imports them into the Joplin app.
 - [Python Joplin API](https://github.com/foxmask/joplin-api) [**Unmaintained**]. The API of Joplin Editor in Python 3.6+. (unmaintained)
-- [Replace Evernote links in Joplin](https://github.com/pentop/replaceEvernoteLinksWithJoplin). A script which uses the Joplin API to globally search-and-replace Evernote links within notes with native Joplin links.
 - [Send email from Outlook to Joplin](https://gist.github.com/ramisedhom/0f34c5d6a8d73f0b98ac4bea2ec30be0). A VBA script (Visual Basic for Application) to send the subject of selected emails from Outook to Joplin Desktop.
 - [Thunderbird Joplin Export](https://github.com/marph91/thunderbird-joplin-export), [[discussion](https://discourse.joplinapp.org/t/joplin-export-export-emails-from-thunderbird-to-joplin/24792)]. Thunderbird add-on to export mails to Joplin.
 - [Web Clipper](https://joplinapp.org/clipper/). A browser extension that allows you to save web pages and screenshots from your browser. To start using it, open the Joplin desktop application, go to the Web Clipper Options and follow the instructions.joplin-dashboard
@@ -125,17 +101,6 @@ All of these are mostly sourced from the [#apps topic](https://discourse.joplina
 ### Official Joplin Plugin Repository
 
 Since roughly January 2021 there exists an [official Joplin Plugin Repository](https://github.com/joplin/plugins), and Joplin app has a simple way of discovering and installing available plugins. To install any of these plugins, open the desktop application, then go to the "Plugins" section in the Configuration screen. You can then search for any plugin and install it from there.
-
-### Old-Style Plugins
-
-This is a list of plugins that were created before the official plugin repository existed. Here are a few interesting ones:
-
-- [Automate notes with JS](https://github.com/S73ph4n/joplin_automate_notes) [**Experimental**] Execute blocks of Javascript in the note, writing the results below.
-- [Create note from highlighted text](https://github.com/ambrt/joplin-plugin-create-note-from-text), [explanation](https://discourse.joplinapp.org/t/create-note-from-highlighted-text/12511) [**Experimental**] Turns text or block of text into new note under active folder.
-- [Link to note](https://github.com/S73ph4n/joplin_autolinker) [**Experimental**] Checks if the selected text matches an existing note's title. If such a note exists, makes a link to it. If it doesn't, creates it.
-- [Make all possible links](https://github.com/S73ph4n/joplin_make_all_links) [**Experimental**] Goes through the current note looking for words (or groups of words) matching another note's title. When found, makes them into links to the corresponding notes.
-- [Note tabs](https://github.com/benji300/joplin-note-tabs) [**Experimental**] Display the selected note in a tab panel and allows to pin/unpin notes as tabs.
-- [Statusbar](https://github.com/tbergeron/joplin-statusbar) [**Experimental**] Very simple plugin that adds a view to use as a statusbar. For now it only displays the last sync time.
 
 ## Tutorials
 
